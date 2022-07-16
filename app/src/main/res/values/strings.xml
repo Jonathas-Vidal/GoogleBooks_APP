@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Google books</string>
+    <string name="page_count">Paginas</string>
+    <string name="authors">autores</string>
+    <string name="page_counting">Paginas</string>
+    <string name="authors_name">Autores</string>
+    <string name="book_title">Titulo</string>
+    <string name="book_editor">Editora</string>
+    <string name="book_description">Descrição</string>
+    <string name="page_count_info">Paginas</string>
+    <string name="book_authors">Autores</string>
+    <string name="book_title_name">Titulo</string>
+</resources>
